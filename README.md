@@ -1,7 +1,7 @@
 NO.1 :A
 NO.2 :D
 NO.3 :C
-NO.4 :A
+NO.4 :C
 NO.5 :A
 NO.6 :B
 NO.7 :C
@@ -17,4 +17,4 @@ N0.16 :C
 NO.17 :C
 NO.18 :A
 NO.19 :B
-NO.20 :A
+NO.20 :D
